@@ -1,0 +1,14 @@
+2->
+    * Medyan bir anakütle ya da örneklem veri serisini küçükten büyüğe doğru sıraladığımızda, seriyi ortadan ikiye ayıran değere denir.
+    * Dağılımın birinci çeyrek veya yüzde 25 değerini gösteren, başka bir deyişle, dizi içindeki veriler toplamının 25. yüzde payı için ayırım noktası olan değerdir.
+    * Dağılımın, 3. çeyrek veya 75. yüzdeliğini gösteren değerdir.
+    * Betimsel istatistikde çeyrekler açıklığı sıralanmış bir veri dizisinin orta yarısını kapsayan ve üçüncü dörttebirlik ve birinci dörttebirlik aralığını veya farkını gösteren bir istatistiksel yayılma ölçüsüdür.
+3->
+    * Histogram, gruplandırılmış bir veri dağılımının sütun grafiğiyle gösterimidir. Diğer bir ifadeyle, tekrarlı sayılardan oluşan verilerin, uygulanan işlemlerden sonra önce tabloya, tablodan yararlanarak grafiğe aktarılması, yani veri gruplarının grafiğinin dikdörtgen sütunlar halinde gösterilmesidir.
+4->
+    * Box plot veri çeyreklerini ve ortalamaları görüntüleyerek sayısal verilerin ve değişkenliğin görsel olarak dağılımını göstermek için kullanılır.
+5->
+    * Nominal: Cinsiyet
+    * Ordinal: Askeri rütbeler
+    * Interval: Sıcaklık
+    * Ratio: Ağırlık
